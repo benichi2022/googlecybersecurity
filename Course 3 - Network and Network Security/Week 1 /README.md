@@ -77,4 +77,90 @@ In the client-server model, the client requests information and services from th
 
 ![image](https://github.com/benichi2022/googlecybersecurityprofessionalcertificate/assets/113864743/7218d80f-f07f-4005-acec-033156fd17c8)
 
+# Introduction to network communication
+A data packet is a basic unit of information that travels from one device to another within a network.
+A data packet is very similar to a physical letter. It contains a header that includes the internet protocol address, the IP address, and the media access control, or MAC, address of the destination device. It also includes a protocol number that tells the receiving device what to do with the information in the packet. Then there's the body of the packet, which contains the message that needs to be transmitted to the receiving device. Finally, at the end of the packet, there's a footer, similar to a signature on a letter, the footer signals to the receiving device that the packet is finished.
+
+Bandwidth refers to the amount of data a device receives every second. You can calculate bandwidth by dividing the quantity of data by the time in seconds
+Speed refers to the rate at which data packets are received or downloaded. Security personnel are interested in network bandwidth and speed because if either are irregular, it could be an indication of an attack. Packet sniffing is the practice of capturing and inspecting data packets across the network.
+
+The TCP/IP model
+First, TCP, or Transmission Control Protocol, is an internet communication protocol that allows two devices to form a connection and stream data. The protocol includes a set of instructions to organize data, so it can be sent across a network.
+The IP in TCP/IP stands for Internet Protocol. IP has a set of standards used for routing and addressing data packets as they travel between devices on a network. Included in the Internet Protocol (IP) is the IP address that functions as an address for each private network.
+
+ A port is a software-based location that organizes the sending and receiving of data between devices on a network.
+Port numbers allow computers to split the network traffic and prioritize the operations they will perform with the data. Some common port numbers are: port 25, which is used for e-mail, port 443, which is used for secure internet communication, and port 20, for large file transfers.
+
+The TCP/IP model is a framework that is used to visualize how data is organized and transmitted across the network. The TCP/IP model has four layers. The four layers are: the network access layer, the internet layer, the transport layer, and the application layer.
+
+![image](https://github.com/benichi2022/googlecybersecurityprofessionalcertificate/assets/113864743/20d91453-3b62-4935-b2e8-1c49d35bdaeb)
+
+# TCP/IP Model vs OSI Model
+![image](https://github.com/benichi2022/googlecybersecurityprofessionalcertificate/assets/113864743/f0f4dac9-4840-413a-9ff7-a0518370ca54)
+
+# IP Address
+An internet protocol address, or IP address, is a unique string of characters that identifies a location of a device on the internet. Each device on the internet has a unique IP address, just like every house on a street has its own mailing address.
+There are two types of IP addresses: IP version 4, or IPv4, and IP version 6, or IPv6. Let's look at examples of an IPv4 address.
+Play video starting at ::37 and follow transcript0:37
+IPv4 addresses are written as four, 1, 2, or 3-digit numbers separated by a decimal point. In the early days of the internet, IP addresses were all IPV4. But as the use of the internet grew, all the IPv4 addresses started to get used up, so IPv6 was developed.
+
+Another kind of address used in network communications is called a MAC address. A MAC address is a unique alphanumeric identifier that is assigned to each physical device on a network. 
+
+# Glossary terms from week 1
+Terms and definitions from Course 3, Week 1
+Bandwidth: The maximum data transmission capacity over a network, measured by bits per second
+
+Cloud computing: The practice of using remote servers, application, and network services that are hosted on the internet instead of on local physical devices
+
+Cloud network: A collection of servers or computers that stores resources and data in remote data centers that can be accessed via the internet
+
+Data packet: A basic unit of information that travels from one device to another within a network
+
+Hub: A network device that broadcasts information to every device on the network
+
+Internet Protocol (IP): A set of standards used for routing and addressing data packets as they travel between devices on a network
+
+Internet Protocol (IP) address: A unique string of characters that identifies the location of a device on the internet
+
+Local Area Network (LAN): A network that spans small areas like an office building, a school, or a home
+
+Media Access Control (MAC) address: A unique alphanumeric identifier that is assigned to each physical device on a network
+
+Modem: A device that connects your router to the internet and brings internet access to the LAN
+
+Network: A group of connected devices
+
+Open systems interconnection (OSI) model: A standardized concept that describes the seven layers computers use to communicate and send data over the network
+
+Packet sniffing: The practice of capturing and inspecting data packets across a network
+
+Port: A software-based location that organizes the sending and receiving of data between devices on a network
+
+Router: A network device that connects multiple networks together
+
+Speed: The rate at which a device sends and receives data, measured by bits per second
+
+Subnetting: The subdivision of a network into logical groups called subnets
+
+Switch: A device that makes connections between specific devices on a network by sending and receiving data between them
+
+TCP/IP model: A framework used to visualize how data is organized and transmitted across a network
+
+Transmission Control Protocol (TCP): An internet communication protocol that allows two devices to form a connection and stream data
+
+User Datagram Protocol (UDP): A connectionless protocol that does not establish a connection between devices before transmissions
+
+Wide Area Network (WAN): A network that spans a large geographic area like a city, state, or country
+
+
+
+
+
+
+
+
+
+
+
+
 
