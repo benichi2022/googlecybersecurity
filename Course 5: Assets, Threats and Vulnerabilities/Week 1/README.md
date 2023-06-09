@@ -34,6 +34,8 @@ Profiles offer a snapshot of the current state of a security plan, enabling comp
 
 Compliance with security regulations and frameworks goes beyond avoiding penalties and attacks. It reflects a commitment to safeguarding people and their information. Understanding the core functions of the NIST Cybersecurity Framework, such as identification and protection, lays the foundation for effective security practices and sets the path for further exploration.
 
+![image](https://github.com/benichi2022/googlecybersecurityprofessionalcertificate/assets/113864743/1610a0ea-5323-4f06-8b81-87c83c691a52)
+
 
 # Glossary terms from week 1
 Terms and definitions from Course 5, Week 1
